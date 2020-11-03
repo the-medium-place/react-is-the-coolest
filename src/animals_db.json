@@ -1,0 +1,52 @@
+[
+    {
+        "type": "puppy",
+        "img": "https://place-puppy.com/300x300",
+        "desc": "this is a cute puppy!"
+    },
+    {
+        "type": "puppy",
+        "img": "https://place-puppy.com/400X400",
+        "desc": "this is a second cute puppy!"
+    },
+    {
+        "type": "puppy",
+        "img": "https://place-puppy.com/500X500",
+        "desc": "this is a third cute puppy!"
+    },
+    {
+        "type": "puppy",
+        "img": "https://place-puppy.com/350X350",
+        "desc": "this is a fourth cute puppy!"
+    },
+    {
+        "type": "puppy",
+        "img": "https://place-puppy.com/450X450",
+        "desc": "this is a fifth cute puppy!"
+    },
+    {
+        "type": "kitten",
+        "img": "https://placekitten.com/300/300",
+        "desc": "this is a cute kitten!"
+    },
+    {
+        "type": "kitten",
+        "img": "https://placekitten.com/400/400",
+        "desc": "this is a second cute kitten!"
+    },
+    {
+        "type": "kitten",
+        "img": "https://placekitten.com/500/500",
+        "desc": "this is a third cute kitten!"
+    },
+    {
+        "type": "kitten",
+        "img": "https://placekitten.com/350/350",
+        "desc": "this is a fourth cute kitten!"
+    },
+    {
+        "type": "kitten",
+        "img": "https://placekitten.com/450/450",
+        "desc": "this is a fifth cute kitten!"
+    }
+]
